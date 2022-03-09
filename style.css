@@ -145,6 +145,7 @@ nav a {
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-evenly;
+    color: #23a538;
 }
 
 .autres-services {
